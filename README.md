@@ -1,4 +1,4 @@
-# Metasploit-Installation-isses-Registry-and-Keys-Can-t-Install-Setup-Wizard-ended-Prematurely-
+# Metasploit-Installation-issues-Registry-and-Keys-Can-t-Install-Setup-Wizard-ended-Prematurely-
 
 This Registry will help you in clearing the issue faced during the metasploit installation issues.
 
