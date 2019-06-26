@@ -1,0 +1,1 @@
+# Metasploit-Installation-isses-Registry-and-Keys-Can-t-Install-Setup-Wizard-ended-Prematurely-
